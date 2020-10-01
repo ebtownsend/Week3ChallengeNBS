@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\bin\Debug\DigitToWord.exe.config
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\bin\Debug\DigitToWord.exe
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\bin\Debug\DigitToWord.pdb
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\obj\Debug\DigitToWord.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\obj\Debug\DigitToWord.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\obj\Debug\DigitToWord.exe
+C:\Users\Administrator\source\repos\DigitToWord\DigitToWord\obj\Debug\DigitToWord.pdb
